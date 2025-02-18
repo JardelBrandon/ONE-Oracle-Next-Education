@@ -6,7 +6,14 @@ let tentativas = 1;
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
-    responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2});
+    if ('speechSynthesis' in window) {
+        let fala = new SpeechSynthesisUtterance(texto);
+        fala.lang = 'pt-BR';
+        fala.rate = 1.2;
+        speechSynthesis.speak(fala);
+    } else {
+        console.log('Web Speech API não suportada neste navegador,');
+    }
 }
 
 function exibirMensagemInicial() {
