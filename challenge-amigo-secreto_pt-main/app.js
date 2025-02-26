@@ -28,3 +28,15 @@ function atualizarAmigos() {
         listaAmigos.appendChild(item);
     })
 }
+
+function sortearAmigo() {
+    if (amigos.length < 1) {
+        alert('Adicione mais amigos para sortear');
+        return;
+    }
+    let indexAmigoSorteado = Math.floor(Math.random() * amigos.length);
+    let sorteado = amigos[indexAmigoSorteado];
+    console.log(indexAmigoSorteado, sorteado);
+    document.getElementById('resultado').textContent = sorteado;
+    atualizarAmigos();
+}
