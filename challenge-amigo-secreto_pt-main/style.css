@@ -142,6 +142,13 @@ ul {
     text-align: center;
 }
 
+.picked-list {
+    margin-top: 15px;
+    color: #df050c;
+    font-size: 16px;
+    text-align: center;
+}
+
 /* Botão de sortear título */
 .button-draw {
     display: flex;
