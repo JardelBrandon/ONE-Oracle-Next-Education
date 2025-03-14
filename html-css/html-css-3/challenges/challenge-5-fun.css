@@ -1,0 +1,29 @@
+/* Desafio 5 - Aplicando estilos com CSS */
+/* Agora, vamos um pouco além. Você precisa criar três arquivos CSS diferentes, cada um com um estilo único, para o mesmo arquivo HTML. Isso demonstrará como o CSS pode drasticamente mudar a aparência de uma página sem alterar o HTML. Crie estilos variados para os elementos da página - um arquivo com um estilo formal e elegante, outro com um estilo colorido e divertido, e um terceiro com um visual minimalista e limpo. */
+
+body {
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  margin: 100;
+  padding: 100;
+  background-color: green;
+  color: red;
+}
+
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+main {
+  padding: 10px;
+  background-color: yellow;
+}
+
+footer {
+  background-color: orange;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}

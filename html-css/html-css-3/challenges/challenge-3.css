@@ -1,0 +1,18 @@
+/* Desafio 3 - Estilizando com cores e formatos */
+/* Você recebeu o desafio de dar vida a uma página web que atualmente tem apenas HTML. Sua tarefa é utilizar CSS para adicionar cores e formatos aos elementos da página, inspirando-se em um design específico fornecido no Figma. Foque em selecionar cores adequadas para os fundos, textos e bordas, além de aplicar estilos aos botões e cabeçalhos para torná-los visualmente atraentes. Você pode usar como referência essa tabela de nomes de cores. */
+/* https://www.w3schools.com/tags/ref_colornames.asp */
+
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333333;
+
+}
+
+button {
+    background-color: green;
+    color: white;
+
+}
