@@ -1,0 +1,7 @@
+/* Desafio 3 - Jogando com cores RGB no CSS */
+/* Vamos experimentar a representação de cores em RGB no CSS. Escolha duas cores que você goste, uma para o fundo (background-color) e outra para o texto (color). Use a notação hexadecimal RGB para definir essas cores no arquivo style.css. Por exemplo, você pode usar #FF5733 para uma cor laranja vibrante e #00FF00 para um verde brilhante. Aplique essas cores no corpo da sua página e veja como elas interagem. */
+
+body {
+  background-color: #FF5733;
+  color: #00FF00;
+}

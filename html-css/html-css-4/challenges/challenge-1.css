@@ -1,0 +1,25 @@
+/* Desafio 1 - Harmonia de cores no CSS */
+/* Imagine que você está trabalhando no desenvolvimento de um site pessoal. Utilize a Roda de Cores da Adobe para criar uma paleta de cores harmoniosa. Escolha uma cor principal e duas cores secundárias para o seu site. Em seguida, aplique essas cores no arquivo style.css do seu projeto, usando a cor principal para o background-color e as cores secundárias para o color de dois tipos diferentes de texto (por exemplo, títulos e parágrafos). */
+
+:root {
+    --primary-color: #6B56F0; /* Cor principal */
+    --secondary-color-1: #56D3F0; /* Cor secundária 1 */
+    --secondary-color-2: #A6CBF0; /* Cor secundária 2 */
+    --secondary-color-3: #56A3F0; /* Cor secundária 3 */
+}
+
+body {
+    background-color: var(--primary-color);
+}
+
+h1 {
+    color: var(--secondary-color-1);
+}
+
+p {
+    color: var(--secondary-color-2);
+}
+
+strong {
+    color: var(--secondary-color-3);
+}

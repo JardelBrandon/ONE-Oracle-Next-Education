@@ -1,0 +1,19 @@
+/* Desafio 2 - Identificando e corrigindo erros de cores no CSS */
+/* Você ficou responsável por corrigir um erro em um projeto web onde o texto não está visível devido a um problema de cor. O corpo da página está com background-color: #000000; e o color do texto foi definido como black, tornando-o invisível. Sua tarefa é corrigir esse erro alterando o valor de color para uma cor visível, como #F6F6F6 ou outra cor clara, garantindo a legibilidade do texto. */
+
+:root {
+    --primary-color: black; /* Cor principal */
+    --secondary-color: #F6F6F6; /* Cor secundária 1 */
+}
+
+body {
+    background-color: var(--primary-color);
+}
+
+h1 {
+    color: var(--secondary-color);
+}
+
+p {
+    color: var(--secondary-color);
+}
