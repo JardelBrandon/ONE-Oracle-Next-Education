@@ -1,0 +1,24 @@
+/* Desafio 1 - Espaçamento e margens com Flexbox */
+/* Aqui, o objetivo é ajustar o espaçamento entre a seção de texto e a imagem para criar uma aparência semelhante ao design do Figma. Use a propriedade justify-content: space-between; em Flexbox para espaçar os elementos e adicione margens para evitar que os elementos fiquem colados nas bordas da tela. */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: #000000;
+  color: #F6F6F6;
+}
+
+.titulo-destaque{
+  color: #22D4FD;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+  }

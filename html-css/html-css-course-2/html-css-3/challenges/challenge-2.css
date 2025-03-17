@@ -1,0 +1,28 @@
+/* Desafio 2 - Definindo o tamanho da seção de texto */
+/* Nesta atividade, você irá ajustar o tamanho de uma seção de texto para que corresponda às especificações do design no Figma. Você vai adicionar uma nova classe chamada apresentacao__conteudo à tag <section> no HTML e, em seguida, definir a largura dessa seção no CSS usando a propriedade width. O valor específico da largura deve ser retirado do projeto no Figma. */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: #000000;
+  color: #F6F6F6;
+}
+
+.titulo-destaque{
+  color: #22D4FD;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+  }
+
+.apresentacao__conteudo {
+  width: 615px;
+}
