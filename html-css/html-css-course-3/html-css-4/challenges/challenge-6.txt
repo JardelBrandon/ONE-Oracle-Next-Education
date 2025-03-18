@@ -1,0 +1,3 @@
+Desafio 6 - Importando e corrigindo o caminho do arquivo CSS na página "Sobre mim"
+
+O objetivo desta atividade é importar o arquivo de estilos styles.css na página "Sobre mim" e corrigir o caminho do arquivo para refletir a estrutura de pastas atual. No arquivo about.html, adicione a tag <link> para importar o styles.css. Lembre-se de que o arquivo CSS foi movido para uma pasta chamada "styles", então o caminho do href na tag <link> precisa ser atualizado para "./styles/styles.css". Após essa correção, salve o arquivo e recarregue a página no navegador para verificar se os estilos foram aplicados corretamente.
