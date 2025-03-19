@@ -1,0 +1,3 @@
+5) Subindo um projeto no GitHub
+
+Agora que você tem uma conta no GitHub, o próximo passo é aprender a "subir" um projeto. Você utilizará o GitHub para hospedar seu projeto web, que inclui arquivos HTML, CSS, JavaScript, entre outros. O foco será no processo de criação de um novo repositório e no envio (upload) dos arquivos do seu projeto para o GitHub.
