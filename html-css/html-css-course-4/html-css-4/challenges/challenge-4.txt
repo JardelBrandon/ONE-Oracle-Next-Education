@@ -1,3 +1,0 @@
-4) Criando uma conta no GitHub
-
-Neste exercício, você irá criar uma conta no GitHub, uma plataforma essencial para qualquer pessoa que atua com desenvolvimento web. O GitHub permite hospedar e compartilhar projetos, facilitando a colaboração. Sua tarefa é navegar pelo processo de inscrição no GitHub, configurar sua conta e explorar as principais funcionalidades disponíveis.

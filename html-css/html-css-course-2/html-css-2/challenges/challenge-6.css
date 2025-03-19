@@ -1,8 +1,0 @@
-/* Desafio 6 - Flexbox: responsividade e alinhamento */
-/* Crie uma página web responsiva onde os elementos se ajustam em diferentes tamanhos de tela, evitando margens fixas. Utilize Flexbox para alternar entre dispor elementos em uma linha ou coluna. */
-
-.responsivo-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}

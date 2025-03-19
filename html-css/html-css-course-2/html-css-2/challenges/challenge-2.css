@@ -1,6 +1,0 @@
-/* Desafio 2 - Controlando o tamanho de elementos com Box Sizing */
-/* Imagine que você está trabalhando em um projeto web e precisa garantir que todos os elementos filhos dentro do body não ultrapassem os limites, especialmente ao adicionar bordas e paddings. Para isso, você deve utilizar a propriedade box-sizing com o valor border-box no elemento body. Após aplicar esta configuração, inspecione o layout para garantir que nenhum elemento filho ultrapasse o limite do body e os seus próprios tamanhos definidos, mesmo ao adicionar bordas e paddings. */
-
-body {
-    box-sizing: border-box;
-}
