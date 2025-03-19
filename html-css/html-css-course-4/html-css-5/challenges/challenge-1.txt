@@ -1,0 +1,3 @@
+1) Criando um repositório no GitHub
+
+Neste exercício, você aprenderá a criar um repositório no GitHub para armazenar e gerenciar os arquivos do seu projeto web. O objetivo é familiarizar-se com o processo de criação de repositórios e entender a importância de organizá-los de forma eficiente.

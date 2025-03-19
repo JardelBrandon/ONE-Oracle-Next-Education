@@ -1,0 +1,5 @@
+6) Ajustes finais e verificação de responsividade
+
+O último exercício foca em fazer ajustes finais no seu projeto e verificar a responsividade do site em diferentes dispositivos. Isso é crucial para garantir uma boa experiência de usuário em qualquer plataforma.
+
+https://portfolio-eight-blond-51.vercel.app/

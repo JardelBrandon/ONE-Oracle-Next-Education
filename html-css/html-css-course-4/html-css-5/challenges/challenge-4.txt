@@ -1,0 +1,3 @@
+4) Hospedando seu projeto no Vercel
+
+Este exercício visa ensinar como hospedar seu projeto web na Vercel, uma plataforma de hospedagem gratuita e rápida, permitindo que seu site seja acessível na internet. Você irá aprender a conectar sua conta do GitHub com a Vercel e a hospedar seu projeto lá.

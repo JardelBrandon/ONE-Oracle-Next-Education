@@ -1,0 +1,3 @@
+3) Visualizando arquivos e preparando para exibição
+
+O objetivo deste exercício é explorar os arquivos do seu projeto no GitHub e entender como prepará-los para serem exibidos corretamente para os usuários finais. Você irá aprender a navegar pelo repositório e visualizar os arquivos de código.

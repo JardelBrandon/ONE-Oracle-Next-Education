@@ -1,0 +1,5 @@
+5) Verificando a hospedagem do projeto
+
+Após hospedar seu projeto na Vercel, você deve verificar se tudo foi configurado corretamente e se o site está acessível publicamente. Este exercício foca em testar o acesso ao seu site hospedado e em entender a importância de ter seu projeto disponível online.
+
+https://portfolio-eight-blond-51.vercel.app/

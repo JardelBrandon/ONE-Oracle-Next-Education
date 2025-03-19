@@ -1,0 +1,67 @@
+1) Criando um repositório no GitHub
+Neste exercício, você aprenderá a criar um repositório no GitHub para armazenar e gerenciar os arquivos do seu projeto web. O objetivo é familiarizar-se com o processo de criação de repositórios e entender a importância de organizá-los de forma eficiente.
+
+2) Fazendo upload de arquivos para o GitHub
+Após criar o repositório, seu próximo passo é carregar os arquivos do seu projeto (HTML, CSS, imagens) para o GitHub. Este exercício ajudará você a entender como adicionar arquivos a um repositório e a importância de organizar os arquivos de forma eficiente.
+
+3) Visualizando arquivos e preparando para exibição
+O objetivo deste exercício é explorar os arquivos do seu projeto no GitHub e entender como prepará-los para serem exibidos corretamente para os usuários finais. Você irá aprender a navegar pelo repositório e visualizar os arquivos de código.
+
+4) Hospedando seu projeto no Vercel
+Este exercício visa ensinar como hospedar seu projeto web na Vercel, uma plataforma de hospedagem gratuita e rápida, permitindo que seu site seja acessível na internet. Você irá aprender a conectar sua conta do GitHub com a Vercel e a hospedar seu projeto lá.
+
+5) Verificando a hospedagem do projeto
+Após hospedar seu projeto na Vercel, você deve verificar se tudo foi configurado corretamente e se o site está acessível publicamente. Este exercício foca em testar o acesso ao seu site hospedado e em entender a importância de ter seu projeto disponível online.
+
+6) Ajustes finais e verificação de responsividade
+O último exercício foca em fazer ajustes finais no seu projeto e verificar a responsividade do site em diferentes dispositivos. Isso é crucial para garantir uma boa experiência de usuário em qualquer plataforma.
+
+------------------------------
+
+Opinião do instrutor
+
+1) Criando um repositório no GitHub
+Faça login na sua conta do GitHub.
+Crie um novo repositório usando uma das seguintes opções:
+Clique no botão "+" no canto superior direito e selecione "New repository".
+Acesse a aba de repositórios no seu perfil e clique em "New".
+Digite "repo.new" na barra de endereço do navegador e pressione "Enter".
+Escolha um nome adequado para o repositório, seguindo as boas práticas (como usar letras minúsculas e separar palavras com traços).
+Adicione uma descrição ao seu repositório.
+Escolha se o repositório será público ou privado.
+Finalize a criação do repositório sem adicionar arquivos adicionais (como README) neste momento.
+2) Fazendo upload de arquivos para o GitHub
+Acesse o repositório recém-criado no GitHub.
+Clique na tag âncora "uploading an existing file" para adicionar arquivos ao seu repositório.
+Escolha os arquivos do seu projeto no computador:
+Clique em "choose your files" e selecione os arquivos do seu projeto.
+Ou arraste e solte os arquivos na área indicada no GitHub.
+Selecione todos os arquivos necessários do projeto, como HTML, CSS, e imagens.
+Revise os arquivos selecionados e remova quaisquer arquivos desnecessários.
+Clique em "Commit changes" para finalizar o upload dos arquivos.
+3) Visualizando arquivos e preparando para exibição
+Acesse o repositório onde você fez o upload dos arquivos do seu projeto.
+Explore o repositório, clicando nos diferentes arquivos para visualizar o código-fonte.
+Verifique os arquivos de imagem, CSS e HTML para garantir que estão todos presentes e corretos.
+Entenda a estrutura do repositório e como os arquivos estão organizados.
+Pense em como esses arquivos podem ser acessados e exibidos para os usuários finais (este será um passo futuro, focando em como tornar o site acessível através da web).
+4) Hospedando seu projeto no Vercel
+Acesse o site da Vercel.
+Crie uma conta na Vercel, preferencialmente usando sua conta do GitHub para facilitar a integração.
+Na página inicial da Vercel, escolha a opção de "Importar repositório Git".
+Conecte-se com o GitHub e escolha o repositório que deseja hospedar (o repositório do seu projeto web).
+Siga as instruções para importar seu repositório e configurar o projeto na Vercel.
+Nomeie seu projeto e configure as opções de acordo com suas preferências.
+Clique em "Implantar" para hospedar seu projeto.
+5) Verificando a hospedagem do projeto
+Após a implantação do projeto na Vercel, você receberá um link para seu site hospedado.
+Acesse o link fornecido pela Vercel para visualizar seu site hospedado.
+Teste o site em diferentes dispositivos, como computadores e smartphones, para garantir que está funcionando corretamente em várias plataformas.
+Navegue pelas diferentes páginas do seu site para verificar se todos os links e funcionalidades estão operando como esperado.
+Compartilhe o link do seu site com amigos ou colegas para obter feedback e garantir que está acessível publicamente.
+6) Ajustes finais e verificação de responsividade
+Acesse seu site hospedado na Vercel a partir de diferentes dispositivos, como smartphones, tablets e computadores.
+Verifique a responsividade do design, garantindo que o layout se adapta bem a diferentes tamanhos de tela.
+Teste todas as funcionalidades do site, incluindo links, botões e transições entre páginas.
+Faça os ajustes necessários no código do seu projeto (HTML, CSS, JavaScript) caso encontre problemas de responsividade ou funcionalidade.
+Após fazer as alterações, atualize o repositório no GitHub e faça um novo deploy no Vercel para aplicar as mudanças no site hospedado.

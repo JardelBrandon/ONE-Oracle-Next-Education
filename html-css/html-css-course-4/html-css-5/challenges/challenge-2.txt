@@ -1,0 +1,3 @@
+2) Fazendo upload de arquivos para o GitHub
+
+Após criar o repositório, seu próximo passo é carregar os arquivos do seu projeto (HTML, CSS, imagens) para o GitHub. Este exercício ajudará você a entender como adicionar arquivos a um repositório e a importância de organizar os arquivos de forma eficiente.
