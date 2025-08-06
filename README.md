@@ -8,4 +8,10 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 
 ![Foto Hello One G8 - Jardel Brandon](assets/template-hello-g8-jardel.png)
 
+Parabéns, você passou para a fase de Especialização de Tech Foundation - Oracle Next Education! 🎉
+
+TE DAMOS AS BOAS VINDAS À FASE DE ESPECIALIZAÇÃO DO PROGRAMA ONE - ORACLE NEXT EDUCATION: GRUPO 8!
+
+![Foto Tech Foundation G8 - Back End - Jardel Brandon](assets/template-tech-foundation-back-end-g8-jardel.png)
+
 ### Saiba mais em https://www.oracle.com/br/education/oracle-next-education/
