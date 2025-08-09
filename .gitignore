@@ -1,8 +1,5 @@
 .vscode/settings.json
 .vscode/launch.json
-/java-oo/primeiro-projeto/.idea
-java-oo/primeiro-projeto/primeiro-projeto.iml
-/java-oo/challenges/challenge/.idea
 *.iml
 *.xml
 */.idea
